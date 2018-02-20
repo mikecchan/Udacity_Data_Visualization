@@ -1,0 +1,112 @@
+h2 {
+        text-align: center;
+        width: 800px;
+        position: absolute;
+    } 
+        
+    h3 {
+        text-align: center;
+    }
+            
+    p{
+        text-align: left;
+        z-index: 2;
+        width: 700px;
+    }
+        
+    p1{
+        position: relative;
+        text-align: center;
+    }
+    	
+    th {
+    	padding: 10px;
+    }
+        
+    comment{
+        text-align: center;
+        position: relative;
+    }
+        
+    #map_comment{
+        text-align: left;
+        position: relative;
+        width: 700px;
+    }
+        
+    .body{
+        text-align: center;
+    }
+        
+    .buttons{
+        text-align: center;
+        position: relative;
+        width: 100%;
+        margin-left:0px auto;
+    }
+        
+    div.buttons div {
+        background-color: #C0C0C0;
+        border-width: thin;
+        border-style: solid;
+        border-color: #000000;
+        padding: 3px;
+        margin: 7px;
+    }
+            
+    .countries-choropleth{
+        fill: #ccc;
+    }
+        
+    .canvas-header{
+        position: relative;
+        width: 800px;
+    }
+    
+    #canvas-svg{
+        position: relative;
+        background-color: #99CCFF;
+    }
+        
+    #canvas-svg2{
+        position: relative;
+    }
+            
+    #tooltip-container {
+    	text-align: left;
+        position: absolute;
+        background-color: rgb(251, 201, 127);
+        color: #000;
+        padding: 10px;
+        border: 1px solid;
+        display: none;
+        z-index: 2;
+    }
+            
+    .tooltip_key {
+        font-weight: bold;
+    }
+            
+    .tooltip_value {
+        margin-left: 20px;
+        margin-right: 20px;
+        float: right;
+    }
+        	
+    svg{
+        width: 800px;
+        height: 500px;
+        border-width: thick;
+        border-style: solid;
+        position: relative;
+    }
+      
+    .legend text{
+  		fill: #000;
+  		font-weight: bold;
+	}
+
+    .legend{
+    	z-index: 1;
+    	fill: #fff;
+    }    
