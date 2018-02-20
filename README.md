@@ -1,3 +1,5 @@
+You may view this Project here: https://mikecchan.github.io/Udacity_Data_Visualization/
+
 ####Summary - in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it. 
 
  My data: PISA 2012, measures the academic performance of each student for many different countries.  Students are also surveyed and other circumstances are also measured such as how wealthy their family, what possessions they own, and condition of the country economically and culturally.  In my project, I will be mapping out some of the countries with the best average academic performance and also countries with the poorest academic performance. Furthermore, I will explore why certain countries perform well or poorly based on other data like what the students have been surveyed.
